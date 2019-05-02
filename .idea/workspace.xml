@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3c8c34-9d24-4566-8fa8-1d2cf87e16ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/anasayfa.html" beforeDir="false" afterPath="$PROJECT_DIR$/anasayfa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hakkimizda.html" beforeDir="false" afterPath="$PROJECT_DIR$/hakkimizda.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iletisim.html" beforeDir="false" afterPath="$PROJECT_DIR$/iletisim.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sanatcilar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sanatcilar.html" afterDir="false" />
@@ -27,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/anasayfa.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
-              <caret line="90" column="46" lean-forward="true" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
+              <caret line="62" column="10" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="62" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="sanatcilar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sanatcilar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="96" column="67" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+            <state relative-caret-position="374">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -54,8 +53,8 @@
       <file leaf-file-name="hakkimizda.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hakkimizda.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="97" column="67" selection-start-line="97" selection-start-column="67" selection-end-line="97" selection-end-column="67" />
+            <state relative-caret-position="211">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -66,8 +65,8 @@
       <file leaf-file-name="iletisim.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iletisim.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="97" column="67" selection-start-line="97" selection-start-column="67" selection-end-line="97" selection-end-column="67" />
+            <state relative-caret-position="259">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -78,8 +77,8 @@
       <file leaf-file-name="studio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="94" column="70" lean-forward="true" selection-start-line="94" selection-start-column="70" selection-end-line="94" selection-end-column="70" />
+            <state relative-caret-position="177">
+              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -90,8 +89,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2152">
-              <caret line="530" column="20" selection-start-line="530" selection-start-column="20" selection-end-line="530" selection-end-column="20" />
+            <state relative-caret-position="8983">
+              <caret line="534" column="24" selection-start-line="534" selection-start-column="24" selection-end-line="534" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -100,9 +99,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>logo.png</find>
       <find>social-share-icon</find>
       <find>social-share</find>
+      <find>logo.png</find>
       <find>classynav</find>
       <find>logo</find>
     </findStrings>
@@ -212,19 +211,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556794651549</updated>
-      <workItem from="1556794652838" duration="2686000" />
+      <workItem from="1556794652838" duration="3304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2686000" />
+    <option name="totallyTimeSpent" value="3304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -232,7 +231,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -269,15 +268,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2152">
-          <caret line="530" column="20" selection-start-line="530" selection-start-column="20" selection-end-line="530" selection-end-column="20" />
+        <state relative-caret-position="8983">
+          <caret line="534" column="24" selection-start-line="534" selection-start-column="24" selection-end-line="534" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/anasayfa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
-          <caret line="90" column="46" lean-forward="true" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
+          <caret line="62" column="10" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="62" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -290,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sanatcilar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="96" column="67" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+        <state relative-caret-position="374">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -300,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hakkimizda.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="97" column="67" selection-start-line="97" selection-start-column="67" selection-end-line="97" selection-end-column="67" />
+        <state relative-caret-position="211">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -310,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iletisim.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="97" column="67" selection-start-line="97" selection-start-column="67" selection-end-line="97" selection-end-column="67" />
+        <state relative-caret-position="259">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -320,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="94" column="70" lean-forward="true" selection-start-line="94" selection-start-column="70" selection-end-line="94" selection-end-column="70" />
+        <state relative-caret-position="177">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
