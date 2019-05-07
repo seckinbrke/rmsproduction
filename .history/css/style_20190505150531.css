@@ -1126,7 +1126,7 @@ you can use the generic selector below, but it's slower:
 		padding: .75em;
 		margin: .4em 1.5em .75em 0;
 		width: 6em;
-		text-shadow: none;
+text-shadow: none;
 	}
         .glyph_big {
         font-size: 128px;
@@ -1145,8 +1145,8 @@ you can use the generic selector below, but it's slower:
 		border: 0;
 		box-shadow: 0 0 0 1px #ccc;
 		padding: .2em;
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
+                -moz-border-radius: 5px;
+                -webkit-border-radius: 5px;
 	}
 	.centered {
 		margin-left: auto;
@@ -1161,3 +1161,8 @@ you can use the generic selector below, but it's slower:
 	.transparentText{
 		color: transparent
 	}
+	.gmap_canvas{
+		width: 100%;
+	}
+
+	

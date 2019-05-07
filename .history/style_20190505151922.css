@@ -2159,7 +2159,6 @@ input:focus {
     background-color: #006bb3; }
     .map-responsive{
       overflow:hidden;
-      margin-bottom: 10px;
       padding-bottom:56.25%;
       position:relative;
       height:0;

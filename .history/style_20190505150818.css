@@ -2157,20 +2157,16 @@ input:focus {
     border-color: #006bb3; }
   .podcast-audio-player-area .audioplayer-bar-played::after {
     background-color: #006bb3; }
-    .map-responsive{
-      overflow:hidden;
-      margin-bottom: 10px;
-      padding-bottom:56.25%;
-      position:relative;
-      height:0;
-  }
-  .map-responsive iframe{
-      left:0;
-      top:0;
-      height:100%;
-      width:100%;
-      position:absolute;
-  }
+
+.gmap_canvas{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
 .single-podcast-area {
   position: relative;
   z-index: 1;
