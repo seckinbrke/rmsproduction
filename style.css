@@ -37,11 +37,11 @@ Last Update: Jan 13, 2018
   $heading: #191919; [Heading Color]
   $text: #6e6e6e; [Text Color]
   $bg-gray: #e7f2fd; [Gray Background]
-  $primary: #006bb3; [Primary Color]
+  $primary: #ff0000; [Primary Color]
   $white: #ffffff; [White Color]
   $dark: #000000; [Dark Color]
   $border: #e5e5e5; [Border Color]
-  $hover: #006bb3; [Hover Color]
+  $hover: #ff0000; [Hover Color]
   $secondary: #a6a6a6; [Secondary Color]
 
   ---------------------------------------------
@@ -162,7 +162,7 @@ ul {
   top: 0;
   width: 30px;
   height: 30px;
-  background-color: #006bb3;
+  background-color: #ff0000;
   text-align: center;
   right: 0;
   padding-right: 0;
@@ -303,7 +303,7 @@ input:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-image:linear-gradient(to left,#4dffff,#006bb3);;
+  background-image:linear-gradient(to left,#efbcb6,#ff0000);;
   opacity: 0.7;
   position: absolute;
   top: 0;
@@ -357,7 +357,7 @@ input:focus {
   margin-left: -20px;
   width: 40px;
   height: 40px;
-  background-color: #006bb3;
+  background-color: #ff0000;
   color: #ffffff;
   text-align: center;
   -webkit-transition-duration: 500ms;
@@ -396,7 +396,7 @@ input:focus {
   padding: 0 30px;
   text-align: center;
   text-transform: uppercase;
-  background-color: #61b3fc;
+  background-color: #ff0000;
   color: #ffffff;
   border: none;
   border-radius: 3px;
@@ -410,21 +410,21 @@ input:focus {
     color: #ffffff; }
   .razo-btn.btn-2 {
     background-color: #ffffff;
-    color: #61b3fc; }
+    color: #ff0000; }
     .razo-btn.btn-2:focus, .razo-btn.btn-2:hover {
-      background-color: #61b3fc;
+      background-color: #ff0000;
       color: #ffffff; }
   .razo-btn.btn-sm {
-    border: 1px solid #61b3fc;
+    border: 1px solid #ff0000;
     height: 33px;
     min-width: 160px;
-    color: #61b3fc;
+    color: #ff0000;
     font-size: 14px;
     font-weight: 600;
     line-height: 31px;
     background-color: #ffffff; }
     .razo-btn.btn-sm:hover, .razo-btn.btn-sm:focus {
-      background-color: #006bb3;
+      background-color: #ff0000;
       color: #ffffff; }
 
 .show-all-btn {
@@ -475,7 +475,7 @@ input:focus {
     .header-area .social-share-icon:focus, .header-area .social-share-icon:hover,
     .header-area .search-icon:focus,
     .header-area .search-icon:hover {
-      color: #006bb3; }
+      color: #ff0000; }
   .header-area .social-share-icon {
     margin-left: 60px; }
     .header-area .social-share-icon.active {
@@ -528,7 +528,7 @@ input:focus {
       z-index: 1;
       font-size: 14px;
       text-transform: uppercase;
-      color: #757575;
+      color: #ffffff;
       font-weight: 600; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .classy-nav-container .classy-navbar .classynav ul li a {
@@ -537,7 +537,7 @@ input:focus {
         .classy-nav-container .classy-navbar .classynav ul li a {
           color: #191919; } }
       .classy-nav-container .classy-navbar .classynav ul li a:focus, .classy-nav-container .classy-navbar .classynav ul li a:hover {
-        color: #61B3FC;
+        color: #ff0000;
         font-weight: 600; }
     .classy-nav-container .classy-navbar .classynav ul li.cn-dropdown-item ul li a, .classy-nav-container .classy-navbar .classynav ul li.megamenu-item ul li a {
       font-size: 13px;
@@ -548,14 +548,14 @@ input:focus {
       color: #191919;
       font-weight: 600; }
       .classy-nav-container .classy-navbar .classynav ul li.cn-dropdown-item ul li a:focus, .classy-nav-container .classy-navbar .classynav ul li.cn-dropdown-item ul li a:hover, .classy-nav-container .classy-navbar .classynav ul li.megamenu-item ul li a:focus, .classy-nav-container .classy-navbar .classynav ul li.megamenu-item ul li a:hover {
-        color: #61B3FC;
+        color: #ff0000;
         font-weight: 600;
         padding-left: 35px; }
 
 .classynav ul li.has-down > a::after,
 .classynav ul li.has-down.active > a::after,
 .classynav ul li.megamenu-item > a::after {
-  color: #006bb3; }
+  color: #ff0000; }
 
 .breakpoint-off .classynav ul li .dropdown,
 .breakpoint-off .classynav ul li .megamenu {
@@ -600,14 +600,14 @@ input:focus {
         background-color: transparent; }
         .top-search-area .modal-content .modal-body button.close-btn.btn:focus, .top-search-area .modal-content .modal-body button.close-btn.btn:hover {
           box-shadow: none;
-          color: #006bb3; }
+          color: #ff0000; }
     .top-search-area .modal-content .modal-body .search-btn {
       position: absolute;
       font-size: 150px;
       bottom: -30px;
       right: 15px;
       z-index: -1;
-      color: #006bb3;
+      color: #ff0000;
       opacity: 0.06; }
 .top-search-area form {
   width: 100%;
@@ -677,7 +677,7 @@ input:focus {
       -webkit-transform: rotate(360deg);
       -ms-transform: rotate(360deg);
       transform: rotate(360deg);
-      background-color: #61b3fc; }
+      background-color: #ff0000; }
 
 .main-header-area.sticky {
   -webkit-transition-duration: 500ms;
@@ -686,7 +686,7 @@ input:focus {
   top: 0;
   width: 100%;
   position: fixed;
-  background-color: #000000;                                     <!-- asagı inişte header color -->
+  background-color: #000000;
   -webkit-box-shadow: 0 6px 50px 8px rgba(21, 131, 233, 0.15);
   box-shadow: 0 6px 50px 8px rgba(21, 131, 233, 0.15);
   border-bottom: none;
@@ -760,7 +760,7 @@ input:focus {
       transition-duration: 500ms; }
       .welcome-slides .owl-dots .owl-dot.active {
         height: 6px;
-        background-color: #61b3fc; }
+        background-color: #ff0000; }
 
 /* :: 9.0 App Download CSS */
 .razo-app-download-area {
@@ -822,7 +822,7 @@ input:focus {
       position: absolute;
       width: 80%;
       height: 2px;
-      background-color: #006bb3;
+      background-color: #ff0000;
       content: '';
       bottom: 0;
       left: 0;
@@ -898,7 +898,7 @@ input:focus {
       margin-bottom: 10px;
       margin-right: 10px; }
       .featured-post-area .post-overlay .post-meta a:hover, .featured-post-area .post-overlay .post-meta a:focus {
-        color: #006bb3; }
+        color: #ff0000; }
     .featured-post-area .post-overlay .post-title {
       font-family: "Oswald", sans-serif;
       font-size: 30px;
@@ -911,7 +911,7 @@ input:focus {
         .featured-post-area .post-overlay .post-title {
           font-size: 20px; } }
       .featured-post-area .post-overlay .post-title:hover, .featured-post-area .post-overlay .post-title:focus {
-        color: #006bb3; }
+        color: #ff0000; }
   .featured-post-area:hover, .featured-post-area:focus {
     background-position: bottom center; }
   .featured-post-area.small-featured-post {
@@ -925,7 +925,7 @@ input:focus {
         .featured-post-area.small-featured-post .post-title {
           font-size: 16px; } }
       .featured-post-area.small-featured-post .post-title:hover, .featured-post-area.small-featured-post .post-title:focus {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .razo-single-post {
   position: relative;
@@ -967,7 +967,7 @@ input:focus {
       margin-bottom: 5px;
       margin-right: 10px; }
       .razo-single-post .post-content .post-meta a:hover, .razo-single-post .post-content .post-meta a:focus {
-        color: #006bb3; }
+        color: #ff0000; }
     .razo-single-post .post-content .post-title {
       font-family: "Oswald", sans-serif;
       font-size: 20px;
@@ -983,7 +983,7 @@ input:focus {
         .razo-single-post .post-content .post-title {
           font-size: 16px; } }
       .razo-single-post .post-content .post-title:hover, .razo-single-post .post-content .post-title:focus {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .razo-single-latest-news-area {
   position: relative;
@@ -1012,7 +1012,7 @@ input:focus {
         width: 90px; } }
     .razo-single-latest-news-area .post-date h2 {
       display: block;
-      background-color: #006bb3;
+      background-color: #ff0000;
       font-size: 48px;
       padding: 20px 0;
       color: #ffffff;
@@ -1055,7 +1055,7 @@ input:focus {
         .razo-single-latest-news-area .post-content .post-title {
           font-size: 20px; } }
       .razo-single-latest-news-area .post-content .post-title:hover, .razo-single-latest-news-area .post-content .post-title:focus {
-        color: #006bb3; }
+        color: #ff0000; }
     .razo-single-latest-news-area .post-content p {
       margin-bottom: 0;
       color: #ffffff; }
@@ -1090,7 +1090,7 @@ input:focus {
           font-size: 12px; } }
       .razo-single-latest-news-area .read-more-btn .btn:hover, .razo-single-latest-news-area .read-more-btn .btn:focus {
         font-weight: 600;
-        color: #006bb3; }
+        color: #ff0000; }
 
 .featured-trending-video {
   position: relative;
@@ -1136,13 +1136,13 @@ input:focus {
       margin-bottom: 15px;
       font-family: "Oswald", sans-serif; }
       .razo-blog-masonary-single-item .post-content .post-title:hover, .razo-blog-masonary-single-item .post-content .post-title:focus {
-        color: #006bb3; }
+        color: #ff0000; }
     .razo-blog-masonary-single-item .post-content .read-more-btn {
       font-size: 14px;
       color: #a6a6a6;
       padding: 0; }
       .razo-blog-masonary-single-item .post-content .read-more-btn:hover, .razo-blog-masonary-single-item .post-content .read-more-btn:focus {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .blog-details-post-thumbnail-area {
   position: relative;
@@ -1186,7 +1186,7 @@ input:focus {
           left: -17px;
           z-index: 1; }
       .blog-details-post-thumbnail-area .post-title-text .post-meta a:hover, .blog-details-post-thumbnail-area .post-title-text .post-meta a:focus {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .razo-pagination {
   position: relative;
@@ -1203,12 +1203,12 @@ input:focus {
     color: #6e6e6e;
     font-size: 16px; }
     .razo-pagination .pagination .page-item .page-link:focus, .razo-pagination .pagination .page-item .page-link:hover {
-      background-color: #006bb3;
-      border-color: #006bb3;
+      background-color: #ff0000;
+      border-color: #ff0000;
       color: #ffffff; }
   .razo-pagination .pagination .page-item.active .page-link {
-    background-color: #006bb3;
-    border-color: #006bb3;
+    background-color: #ff0000;
+    border-color: #ff0000;
     color: #ffffff; }
 
 .comment_area {
@@ -1260,7 +1260,7 @@ input:focus {
           .comment_area .comment-content .comment-meta .author-name .post-date {
             font-size: 12px; } }
       .comment_area .comment-content .comment-meta .author-name:hover, .comment_area .comment-content .comment-meta .author-name:focus {
-        color: #006bb3; }
+        color: #ff0000; }
       @media only screen and (max-width: 767px) {
         .comment_area .comment-content .comment-meta .author-name {
           font-size: 16px; } }
@@ -1284,8 +1284,8 @@ input:focus {
       .comment_area .comment-content .comment-meta a.like:focus, .comment_area .comment-content .comment-meta a.like:hover,
       .comment_area .comment-content .comment-meta a.reply:focus,
       .comment_area .comment-content .comment-meta a.reply:hover {
-        border-color: #006bb3;
-        background-color: #006bb3;
+        border-color: #ff0000;
+        background-color: #ff0000;
         color: #ffffff; }
   .comment_area .children {
     margin-left: 50px; }
@@ -1315,7 +1315,7 @@ input:focus {
         width: 40px; } }
     .razo-blockquote .icon i {
       font-size: 48px;
-      color: #006bb3; }
+      color: #ff0000; }
       @media only screen and (max-width: 767px) {
         .razo-blockquote .icon i {
           font-size: 30px; } }
@@ -1329,7 +1329,7 @@ input:focus {
         font-size: 18px; } }
   .razo-blockquote .text h6 {
     margin-bottom: 0;
-    color: #006bb3; }
+    color: #ff0000; }
 
 .post-catagories {
   position: relative;
@@ -1341,7 +1341,7 @@ input:focus {
     .post-catagories ul li a {
       display: inline-block;
       background-color: #ffffff;
-      color: #006bb3;
+      color: #ff0000;
       text-transform: capitalize;
       font-size: 16px;
       margin: 5px;
@@ -1364,7 +1364,7 @@ input:focus {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #006bb3;
+    background-color: #ff0000;
     color: #ffffff;
     text-align: center;
     margin-bottom: 10px;
@@ -1380,7 +1380,7 @@ input:focus {
     .razo-post-share a.instagram {
       background-color: #f0c605; }
     .razo-post-share a:hover, .razo-post-share a:focus {
-      background-color: #006bb3; }
+      background-color: #ff0000; }
 
 .blog-details-area {
   position: relative;
@@ -1420,7 +1420,7 @@ input:focus {
       padding-top: 1px;
       font-size: 18px;
       margin-right: 20px;
-      color: #006bb3; }
+      color: #ff0000; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-footer-widget .single-contact-info .icon {
           font-size: 16px; } }
@@ -1440,7 +1440,7 @@ input:focus {
       padding-top: 2px;
       font-size: 18px;
       margin-right: 20px;
-      color: #006bb3; }
+      color: #ff0000; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-footer-widget .single-twitter-feed .tweet-icon {
           margin-right: 10px; } }
@@ -1456,7 +1456,7 @@ input:focus {
           .single-footer-widget .single-twitter-feed .tweet p a {
             font-size: 14px; } }
         .single-footer-widget .single-twitter-feed .tweet p a:focus, .single-footer-widget .single-twitter-feed .tweet p a:hover {
-          color: #006bb3; }
+          color: #ff0000; }
 
 .copywrite-text {
   position: relative;
@@ -1490,7 +1490,7 @@ input:focus {
         .copywrite-text p a {
           font-size: 14px; } }
       .copywrite-text p a:focus, .copywrite-text p a:hover {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .razo-instagram-area {
   position: relative;
@@ -1618,10 +1618,10 @@ input:focus {
       .single-music-chart .music-content .audio-player .audioplayer:not(.audioplayer-playing) .audioplayer-playpause a {
         border-left: 12px solid #ffffff; }
     .single-music-chart .music-content .audioplayer-playing .audioplayer-playpause {
-      border: 3px solid #006bb3; }
+      border: 3px solid #ff0000; }
     .single-music-chart .music-content .audioplayer-playing .audioplayer-playpause a::before,
     .single-music-chart .music-content .audioplayer-playing .audioplayer-playpause a::after {
-      background-color: #006bb3; }
+      background-color: #ff0000; }
   @media only screen and (max-width: 767px) {
     .single-music-chart .music-price {
       -webkit-box-flex: 0;
@@ -1635,7 +1635,7 @@ input:focus {
   .single-music-chart:hover, .single-music-chart:focus {
     background-color: #1e1e1e; }
     .single-music-chart:hover .razo-btn, .single-music-chart:focus .razo-btn {
-      background-color: #006bb3;
+      background-color: #ff0000;
       color: #ffffff; }
   .single-music-chart.style-2 {
     background-color: #ffffff;
@@ -1654,10 +1654,10 @@ input:focus {
       .single-music-chart.style-2 .music-content .audio-player .audioplayer:not(.audioplayer-playing) .audioplayer-playpause a {
         border-left: 12px solid #191919; }
       .single-music-chart.style-2 .music-content .audioplayer-playing .audioplayer-playpause {
-        border: 3px solid #006bb3; }
+        border: 3px solid #ff0000; }
       .single-music-chart.style-2 .music-content .audioplayer-playing .audioplayer-playpause a::before,
       .single-music-chart.style-2 .music-content .audioplayer-playing .audioplayer-playpause a::after {
-        background-color: #006bb3; }
+        background-color: #ff0000; }
     .single-music-chart.style-2:hover, .single-music-chart.style-2:focus {
       background-color: #f2f4f5; }
 
@@ -1713,6 +1713,89 @@ input:focus {
   .single-charts-portfolio:hover .overlay-content, .single-charts-portfolio:focus .overlay-content {
     opacity: 1;
     visibility: visible; }
+    .modal {
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      padding-top: 100px; /* Location of the box */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+    }
+    #myImg {
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    
+    #myImg:hover {opacity: 0.7;}
+    
+    /* Modal Content (image) */
+    .modal-content {
+      margin: auto;
+      display: block;
+      width: 80%;
+      max-width: 700px;
+    }
+    
+    /* Caption of Modal Image */
+    #caption {
+      margin: auto;
+      display: block;
+      width: 80%;
+      max-width: 700px;
+      text-align: center;
+      color: #ccc;
+      padding: 10px 0;
+      height: 150px;
+    }
+    
+    /* Add Animation */
+    .modal-content, #caption {  
+      -webkit-animation-name: zoom;
+      -webkit-animation-duration: 0.6s;
+      animation-name: zoom;
+      animation-duration: 0.6s;
+    }
+    
+    @-webkit-keyframes zoom {
+      from {-webkit-transform:scale(0)} 
+      to {-webkit-transform:scale(1)}
+    }
+    
+    @keyframes zoom {
+      from {transform:scale(0)} 
+      to {transform:scale(1)}
+    }
+    
+    /* The Close Button */
+    .close {
+      position: absolute;
+      top: 15px;
+      right: 35px;
+      color: #f1f1f1;
+      font-size: 40px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    
+    .close:hover,
+    .close:focus {
+      color: #bbb;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    
+    /* 100% Image Width on Smaller Screens */
+    @media only screen and (max-width: 700px){
+      .modal-content {
+        width: 100%;
+      }
+    }
 
 .chart-details-content {
   position: relative;
@@ -1756,7 +1839,7 @@ input:focus {
     font-size: 14px; }
     .razo-contact-form .form-control:focus {
       box-shadow: none;
-      border-color: #006bb3; }
+      border-color: #ff0000; }
   .razo-contact-form textarea.form-control {
     height: 110px;
     padding: 20px; }
@@ -1831,9 +1914,9 @@ input:focus {
           -o-transition-duration: 500ms;
           transition-duration: 500ms; }
         .show-routine-area .nav-tabs .nav-item .nav-link.active {
-          color: #006bb3; }
+          color: #ff0000; }
           .show-routine-area .nav-tabs .nav-item .nav-link.active::after {
-            background-color: #006bb3; }
+            background-color: #ff0000; }
 
 .single-show-item {
   position: relative;
@@ -1964,7 +2047,7 @@ input:focus {
         bottom: 13px;
         right: 15px;
         font-size: 14px;
-        color: #006bb3; }
+        color: #ff0000; }
       .event-search-content form .form-group .form-control {
         width: 100%;
         height: 46px;
@@ -1976,7 +2059,7 @@ input:focus {
             font-size: 12px; } }
         .event-search-content form .form-group .form-control:focus {
           box-shadow: none;
-          border-color: #006bb3; }
+          border-color: #ff0000; }
 
 .single-razo-event-area {
   position: relative;
@@ -2055,7 +2138,7 @@ input:focus {
             margin-right: 15px; } }
         .single-razo-event-area .event-content .event-meta a i {
           font-size: 14px;
-          color: #006bb3; }
+          color: #ff0000; }
           @media only screen and (max-width: 767px) {
             .single-razo-event-area .event-content .event-meta a i {
               font-size: 12px; } }
@@ -2063,7 +2146,7 @@ input:focus {
           margin-right: 0; }
         .single-razo-event-area .event-content .event-meta a:hover, .single-razo-event-area .event-content .event-meta a:focus {
           box-shadow: none;
-          color: #006bb3; }
+          color: #ff0000; }
     .single-razo-event-area .event-content p {
       margin-bottom: 15px; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2076,7 +2159,7 @@ input:focus {
       color: #a6a6a6; }
       .single-razo-event-area .event-content .read-more-btn:hover, .single-razo-event-area .event-content .read-more-btn:focus {
         box-shadow: none;
-        color: #006bb3; }
+        color: #ff0000; }
     .single-razo-event-area .event-content .event-purchase-button {
       padding-left: 100px; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2151,12 +2234,12 @@ input:focus {
     .podcast-audio-player-area .audioplayer .audioplayer-bar-loaded {
       background-color: #ffffff; }
     .podcast-audio-player-area .audioplayer .audioplayer-bar-played {
-      background-color: #006bb3; }
+      background-color: #ff0000; }
   .podcast-audio-player-area .audioplayer-playing .audioplayer-bar-played::after,
   .podcast-audio-player-area .audioplayer:not(.audioplayer-playing) .audioplayer-bar-played::after {
-    border-color: #006bb3; }
+    border-color: #ff0000; }
   .podcast-audio-player-area .audioplayer-bar-played::after {
-    background-color: #006bb3; }
+    background-color: #ff0000; }
     .map-responsive{
       overflow:hidden;
       margin-bottom: 10px;
@@ -2191,7 +2274,7 @@ input:focus {
         color: #ffffff;
         margin-left: 15px; }
         .single-podcast-area .podcast-thumb .like-comment a:hover, .single-podcast-area .podcast-thumb .like-comment a:focus {
-          color: #006bb3; }
+          color: #ff0000; }
   .single-podcast-area .podcast-content {
     padding: 30px;
     position: relative;
@@ -2206,7 +2289,7 @@ input:focus {
         color: #a6a6a6;
         margin-right: 15px; }
         .single-podcast-area .podcast-content .podcast-meta a:hover, .single-podcast-area .podcast-content .podcast-meta a:focus {
-          color: #006bb3; }
+          color: #ff0000; }
     .single-podcast-area .podcast-content h5 {
       margin-bottom: 15px;
       display: block; }
@@ -2220,7 +2303,7 @@ input:focus {
       font-size: 18px;
       color: #a6a6a6; }
       .single-podcast-area .podcast-content .play-download-btn .music-download-btn:hover, .single-podcast-area .podcast-content .play-download-btn .music-download-btn:focus {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .razo-next-prev-pager {
   position: relative;
@@ -2255,7 +2338,7 @@ input:focus {
       .razo-next-prev-pager .prev-pager a h6:hover, .razo-next-prev-pager .prev-pager a h6:focus,
       .razo-next-prev-pager .next-pager a h6:hover,
       .razo-next-prev-pager .next-pager a h6:focus {
-        color: #006bb3; }
+        color: #ff0000; }
 
 .razo-author-avatar {
   position: relative;
